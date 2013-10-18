@@ -1,8 +1,10 @@
 {
   "name": "base64-image",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "a simple base64 string to image middleware of Express",
   "main": "index.js",
+  "author": "turing",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,8 +17,6 @@
     "images",
     "canvas"
   ],
-  "author": "turing",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/turingou/base64-image/issues"
   }
